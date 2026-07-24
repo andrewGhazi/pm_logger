@@ -1,0 +1,7 @@
+.Rproj.user/
+Rplots.pdf
+data/
+output/
+*.Rproj
+to_connect.txt
+
